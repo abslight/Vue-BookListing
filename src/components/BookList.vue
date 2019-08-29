@@ -5,10 +5,10 @@
 </template>
 <script>
 export default {
-  name: "booklist",
+  name: "BookList",
   data() {
     return {
-      title: "all books"
+      title: "All Books"
     };
   }
 };
